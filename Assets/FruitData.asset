@@ -15,34 +15,45 @@ MonoBehaviour:
   fruitProperties:
   - name: Blueberry
     scaleMultiplier: 0.3
+    sizeMultiplier: 1.25
     color: {r: 0.22745097, g: 0.4151177, b: 0.69803923, a: 1}
   - name: Apple
     scaleMultiplier: 0.54
+    sizeMultiplier: 1.5
     color: {r: 0.22745097, g: 0.69803923, b: 0.24214238, a: 1}
   - name: Banana
     scaleMultiplier: 0.78
+    sizeMultiplier: 1.75
     color: {r: 0.69803923, g: 0.6973933, b: 0.22745097, a: 1}
   - name: Grape
     scaleMultiplier: 1.02
+    sizeMultiplier: 2
     color: {r: 0.57383966, g: 0.22745097, b: 0.69803923, a: 1}
   - name: Watermelon
     scaleMultiplier: 1.26
+    sizeMultiplier: 2.25
     color: {r: 0.69803923, g: 0.24626201, b: 0.22745097, a: 1}
   - name: Guava
     scaleMultiplier: 1.5
+    sizeMultiplier: 2.5
     color: {r: 0.9339623, g: 0.43614274, b: 0.6269735, a: 1}
   - name: Mango
     scaleMultiplier: 1.74
+    sizeMultiplier: 2.75
     color: {r: 0.69803923, g: 0.56677884, b: 0.22745097, a: 1}
   - name: Pineapple
     scaleMultiplier: 1.98
+    sizeMultiplier: 3
     color: {r: 1, g: 0.9304917, b: 0.2028302, a: 1}
   - name: Coconut
     scaleMultiplier: 2.22
+    sizeMultiplier: 3.25
     color: {r: 0.4811321, g: 0.21104217, b: 0.15205589, a: 1}
   - name: Grapefruit
     scaleMultiplier: 2.46
+    sizeMultiplier: 3.5
     color: {r: 0.8396226, g: 0.14653791, b: 0.2954653, a: 1}
   - name: Melon
     scaleMultiplier: 2.7
+    sizeMultiplier: 3.75
     color: {r: 0.5930548, g: 0.8392157, b: 0.14509802, a: 1}

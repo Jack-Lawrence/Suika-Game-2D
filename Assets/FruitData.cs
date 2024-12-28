@@ -8,6 +8,7 @@ public class FruitData : ScriptableObject
     {
         public string name;             //Name of the fruit
         public float scaleMultiplier;   //Scale multiplier
+        public float sizeMultiplier;
         public Color color;             //Fruit color
     }
 

@@ -104,6 +104,7 @@ MonoBehaviour:
     name: 
     scaleMultiplier: 0
     color: {r: 0, g: 0, b: 0, a: 0}
+  isPreview: 0
 --- !u!58 &4761199460381555463
 CircleCollider2D:
   m_ObjectHideFlags: 0
